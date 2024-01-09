@@ -52,7 +52,7 @@ Contributions to the PersonDOB project are welcome! If you'd like to contribute,
 
 MIT License
 
-Copyright (c) [year] [Bartosz Szymichowski]
+Copyright (c) 2024 Bartosz Szymichowski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
