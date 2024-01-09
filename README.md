@@ -35,10 +35,8 @@ To use PersonDOB in your PHP script, follow these steps:
    use BartoszSzymichowski\PersonDOB\PersonDOB;
 
    $personDOB = new PersonDOB('1990-05-20');
-   echo 'Age Category: ' . $personDOB->getPlainTextAge() . "
-";
-   echo 'Mondays Lived: ' . $personDOB->countWeekDays('Monday') . "
-";
+   echo 'Age Category: ' . $personDOB->getPlainTextAge() . "";
+   echo 'Mondays Lived: ' . $personDOB->countWeekDays('Monday') . "";
    ```
 
 ## Contributing
