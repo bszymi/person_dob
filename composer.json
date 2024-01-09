@@ -1,0 +1,18 @@
+{
+    "authors": [
+        {
+            "name": "Bartosz Szymichowski",
+            "email": "bszymi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BartoszSzymichowski\\PersonDOB\\": "src/"
+        }
+    },
+    "name": "bartoszszymichowski/person_dob",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
